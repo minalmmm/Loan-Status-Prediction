@@ -15,7 +15,7 @@ This Streamlit app provides a simple interface for predicting loan approval base
 
 ### App Overview
 
-![App Overview](my_streamlit_app/images/Screenshot%202024-09-17%20211939.png)
+![App Overview](my_streamlit_app/images/Screenshot%202024-09-17%20212847.png)
 
 ### Loan Prediction
 
