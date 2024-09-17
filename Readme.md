@@ -9,12 +9,14 @@ This Streamlit app provides a simple interface for predicting loan approval base
 - User-friendly interface with input fields for loan application details.
 - Predicts loan approval based on user inputs.
 - Simple rule-based logic for demonstration purposes.
+# Loan Prediction Dashboard
+
 ## Screenshots 
 
 ### App Overview
 
-![images](my_streamlit_app\images\Screenshot 2024-09-17 211939.png)
+![App Overview](my_streamlit_app/images/Screenshot%202024-09-17%20211939.png)
 
-### loan Prediction
+### Loan Prediction
 
-![images](my_streamlit_app\images\Screenshot 2024-09-17 211939.png)
+![Loan Prediction](my_streamlit_app/images/Screenshot%202024-09-17%20211939.png)
